@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+
+
+* { 
+	border: 1em;
+}
+.outer{
+	border: ridge rgb(204, 204, 204);
+	border-width: 100px;
+	background-color: rgb(250, 101, 238)
+}
+.picture {
+	width: 140px;
+	float: right;
+}
+.heading {
+	float: left; 
+	text-align: left;
+	line-height: 200%;
+}
+body {
+	font-family: 'Montserrat', sans-serif; 
+	padding: 10px;
+	margin: 20px, auto;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 120%;
+	
+	}
+.education{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.education-title {
+	float: left;
+	width: 30%;
+	text-align: left;
+}
+
+.education-body-1 {
+	float: right;
+	width: 68%;
+}
+
+.heading-2 {
+	float: left;
+	width: 100%;
+}
+.work-experience-1{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.heading-left{
+	float: left;
+	width: 30%;
+}
+.body-right{
+	float: right;
+	width: 55%;
+}
+
+.work-experience-2{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.heading-left-2{
+	float: left;
+	width: 30%;
+}
+.body-right-2{
+	float: right;
+	width: 55%;
+}
+
+.work-experience-3{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.heading-left-3{
+	float: left;
+	width: 30%;
+}
+.body-right-3{
+	float: right;
+	width: 55%;
+}
+
+.work-experience-4{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.heading-left-4{
+	float: left;
+	width: 30%;
+}
+.body-right-4{
+	float: right;
+	width: 55%;
+}
+
+.block-style{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.cert-heading{
+	float: left;
+	width: 30%;
+}
+.cert-body {
+	float: right;
+	width: 55%;
+}
+.block-style{
+	margin: auto;
+	text-align: left;
+	display: flex;
+}
+.skills-heading{
+	float: left;
+	width: 30%;
+}
+.skills-body{
+	float: right;
+	width: 55%;
+}
+.table-heading{
+	margin: auto;
+	text-align: center;
+}
+
+.table-container {
+    width:98%; 
+    margin:1%;
+  }
+  .style-table {
+    text-align:center; 
+    margin-left:400px; 
+	margin-right:500px; 
+	width: 900px; 
+  }
+  tr,td {text-align:left;}
+
+ .ref-heading{
+	 text-align: center;
+ }
+ .ref-body{
+	 text-align: center;
+ }
